@@ -1,2 +1,2 @@
 # DB-Oracle
-Repositório destinado à projetos de banco de dados Oracle
+Repositório destinado à projetos de banco de dados relacional. 
